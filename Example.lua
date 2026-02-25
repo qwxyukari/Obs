@@ -24,8 +24,8 @@ local Window = Library:CreateWindow({
 	-- but you do not need to define them unless you are changing them :)
 
 	Title = "mspaint",
-	Footer = "version: example",
-	Icon = 95816097006870,
+	Footer = "example",
+	Icon = "",
 	NotifySide = "Right",
 	ShowCustomCursor = true,
 })
