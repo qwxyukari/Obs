@@ -368,7 +368,7 @@ do
         groupbox:AddDropdown("FontFace", {
             Text = "Font Face",
             Default = "Code",
-            Values = { "Gotham", "BuilderSans", "JosefinSans", "Jura", "NunitoSans", "Mulish", "RobotoMono" },
+            Values = { "Gotham", "BuilderSans", "JosefinSans", "Jura", "RobotoMono" },
         })
 
         local ThemesArray = {}
